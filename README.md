@@ -1,9 +1,7 @@
-## Hi there 👋
 
-<!--
 **BhavyaImpact/BhavyaImpact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="left">Hey 👋 hello?</h1>
+<h1 align="left">👋 hello?</h1>
 
 ###
 
